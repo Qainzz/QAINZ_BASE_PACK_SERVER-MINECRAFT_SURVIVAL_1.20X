@@ -1,0 +1,19 @@
+command /pomoc:
+    trigger:
+        send "&7╔═════════ &a&lQAINZ - POMOC &7═════════╗" to player
+        send " "
+        send "             &7&LZa pomocą komendy &a&l/ps get" to player
+        send "       &a&lOdbierzesz działkę darmową działkę" to player
+        send " " to player
+        send " &7&l}------------------------------------{" to player
+        send " " to player
+        send "   &7&lZa pomocą komendy &a&l/ps add &7&l| &a&l/ps remove" to player
+        send "                   &7&lMożesz &a&ldodawać &7&li" to player
+        send "             &c&lUsuwać &7&lGraczy z działki"
+        send " " to player
+        send " &7&l}------------------------------------{" to player
+        send " " to player
+        send "                &7&lZa pomocą komendy &a&l/kit"
+        send "           &7&lMożesz odbierać kity &a&lstartowe"
+        send " "
+        send "&7╚═════════ &a&lQAINZ - POMOC &7═════════╝"

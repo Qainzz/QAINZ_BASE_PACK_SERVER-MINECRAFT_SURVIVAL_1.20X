@@ -1,0 +1,17 @@
+options:
+
+	JumpHeight: -64
+
+every 15 ticks:
+	loop all players:
+		if loop-player's y-coordinate is below {@JumpHeight}:
+			push loop-player upwards with speed 4
+			play sound "entity.firework_rocket.launch" with volume 5 and pitch 0.6 to the loop-player
+			#teleport loop-player to {lobby::pos::spawn}
+			set {_tpheight} to {@JumpHeight} - -64
+			if loop-player's y-coordinate is below {_tpheight}:
+				teleport loop-player to {lobby::pos::spawn}
+				wait 1 tick
+				push loop-player upwards with speed 1
+				play sound "entity.firework_rocket.launch" with volume 5 and pitch 0.1 to the loop-player
+				#teleport loop-player to {lobby::pos::spawn}

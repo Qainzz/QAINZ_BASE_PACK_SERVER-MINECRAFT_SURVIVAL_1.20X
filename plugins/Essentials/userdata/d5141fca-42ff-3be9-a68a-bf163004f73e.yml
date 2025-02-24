@@ -1,0 +1,59 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1732268647768
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732268176261
+  login: 1732268288775
+  kits:
+    firework: 1718023195434
+    tools: 1718025998703
+    start: 1732268547431
+money: '849724.8'
+last-account-name: Quejti
+logoutlocation:
+  world: 02030997-112c-466c-b42f-db9d2d443237
+  world-name: world
+  x: 104.69999998807907
+  y: 24.0
+  z: 126.69999998807907
+  yaw: -18.599586486816406
+  pitch: 42.30000305175781
+lastlocation:
+  world: 02030997-112c-466c-b42f-db9d2d443237
+  world-name: world
+  x: 101.60605898308066
+  y: 22.0
+  z: 134.61782194841254
+  yaw: 141.4505615234375
+  pitch: 11.400002479553223
+homes:
+  home:
+    world: e2f64294-bf74-437d-82b7-b47b12608dc9
+    world-name: survival
+    x: -336.5494760804453
+    y: 64.0
+    z: 350.9658987668961
+    yaw: -19.649532318115234
+    pitch: 90.0
+  krzeselka:
+    world: 02030997-112c-466c-b42f-db9d2d443237
+    world-name: world
+    x: 96.3795461065004
+    y: -28.0
+    z: 111.52780925837969
+    yaw: 90.74579620361328
+    pitch: 90.0

@@ -1,0 +1,6 @@
+on server stop:
+	connect player to "lobby"
+
+command /lobby [<text>]:
+	trigger:
+		connect player to "lobby"

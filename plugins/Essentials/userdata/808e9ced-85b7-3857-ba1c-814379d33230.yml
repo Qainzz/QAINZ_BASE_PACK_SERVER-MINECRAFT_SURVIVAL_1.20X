@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.106.163.134
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1719929335575
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720038255996
+  login: 1720038160843
+money: '0'
+last-account-name: FranioZabijaka23
+lastlocation:
+  world: 02030997-112c-466c-b42f-db9d2d443237
+  world-name: world
+  x: 81.48733808979364
+  y: -24.799999952316284
+  z: 116.69999998807907
+  yaw: 94.42120361328125
+  pitch: 57.15085983276367
+logoutlocation:
+  world: 02030997-112c-466c-b42f-db9d2d443237
+  world-name: world
+  x: 133.8213757635049
+  y: 40.37766142725133
+  z: 51.1858453581133
+  yaw: -157.23565673828125
+  pitch: 16.782733917236328

@@ -1,0 +1,25 @@
+# Deklarowanie zmiennej przechowującej status PvP dla każdego gracza
+variables:
+    {pvp_status::*} = true
+
+# Komenda do włączania PvP
+command /pvpon:
+    trigger:
+        set {pvp_status::%player%} to true
+        send "&aPvP zostało włączone!" to player
+
+# Komenda do wyłączania PvP
+command /pvpoff:
+    trigger:
+        set {pvp_status::%player%} to false
+        send "&cPvP zostało wyłączone!" to player
+
+# Event wywoływany przy próbie zadania obrażeń innemu graczowi
+on damage of player:
+    attacker is a player
+    if {pvp_status::%victim%} is false:
+        cancel event
+        send "&cTen gracz ma wyłączone PvP!" to attacker
+    if {pvp_status::%attacker%} is false:
+        cancel event
+        send "&cMasz wyłączone PvP!" to attacker

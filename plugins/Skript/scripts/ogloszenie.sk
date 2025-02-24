@@ -1,0 +1,24 @@
+#Author: QAINZ
+#Discord: qainz
+options:
+    TextOgloszenieMsg: &7&m                &f&b&6&5&1&0&l&oO&f&b&7&2&0&f&l&oG&f&b&7&e&0&f&l&oL&f&c&8&b&0&e&l&oO&f&c&9&7&0&e&l&oS&f&c&a&4&0&d&l&oZ&f&c&b&0&0&d&l&oE&f&d&b&d&0&c&l&oN&f&d&c&9&0&c&l&oI&f&d&d&6&0&b&l&oE&7&m                &m    
+    TitleOgloszenieMsg: &x&f&b&6&5&1&0&l&oO&x&f&b&7&2&0&f&l&oG&x&f&b&7&e&0&f&l&oL&x&f&c&8&b&0&e&l&oO&x&f&c&9&7&0&e&l&oS&x&f&c&a&4&0&d&l&oZ&x&f&c&b&0&0&d&l&oE&x&f&d&b&d&0&c&l&oN&x&f&d&c&9&0&c&l&oI&x&f&d&d&6&0&b&l&oE
+
+command /ogloszenie [<text>] [<text>]:
+    permission: send.ogloszenie
+    permission message: &cNie posiadasz uprawnien do tej komendy!
+    trigger:
+        if arg 1 is not set:
+            send "&cPoprawne użycie to /ogloszenie <text/title> <ogloszenie>"
+            send "&a&lOpcja (TITLE) odpowiada za ogłoszenie na ekranie"
+            send "&a&lOpcja (TEXT) odpowiada za ogłoszenie na chacie"
+
+        if arg 1  is "text":
+            send "{@TextOgloszenieMsg}" to all players
+            send "" to all players
+            send "&8&l» &c%colored arg 2%" to all players
+            send "" to all players
+            send "{@TextOgloszenieMsg}" to all players
+
+        if arg 1 is "title":
+            send title "{@TitleOgloszenieMsg}" with subtitle "&e%colored arg 2%" to all players

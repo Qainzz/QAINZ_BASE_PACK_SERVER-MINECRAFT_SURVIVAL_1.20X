@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 25.31.101.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718026688332
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718028367183
+  login: 1718026671039
+  kits:
+    start: 1718027397978
+money: '0'
+last-account-name: tsunamaki12_
+lastlocation:
+  world: c44cd375-4cb2-42b8-8176-ce8001291cfb
+  world-name: world
+  x: -28.69729681579746
+  y: 65.53292827534491
+  z: 38.18761005197972
+  yaw: -24.59967041015625
+  pitch: 11.550016403198242
+logoutlocation:
+  world: c44cd375-4cb2-42b8-8176-ce8001291cfb
+  world-name: world
+  x: -3.7239224093587384
+  y: 63.0
+  z: 232.43674466000127
+  yaw: 3.786865234375
+  pitch: 31.49945068359375

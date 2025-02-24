@@ -1,0 +1,82 @@
+command-argument-count-invalid: '&cInvalid number of arguments&r (%0% instead of %1%)!'
+command-argument-invalid-number: '&cNot a valid number: &r%0%'
+command-argument-invalid-type: '&cInvalid argument ''%0%'', expected %1%'
+command-cleanup-skipped: Player list had no duplicates!
+command-cleanup-success: Player list is clear! %0% entries removed!
+command-config-no-list: 'Not a list node: &e%0%&r!'
+command-config-unknown-node: 'Unknown node: &e%0%&r!'
+command-config-unknown-type: 'Unknown node type: &e%0%&r!'
+command-config-add-skipped: List &e%0%&r already contains &e%1%&r!
+command-config-add-success: Added &e%1%&r to &a%0%&r!
+command-config-get-group-impossible: 'Cannot get value of group node: &e%0%&r!'
+command-config-get-secret-forbidden: 'Cannot show node: &e%0%&r!'
+command-config-get-success: 'Value of node &a%0%&r is: &e%1%&r'
+command-config-remove-skipped: List &e%0%&r does not contain &e%1%&r!
+command-config-remove-success: Removed &e%1%&r from &a%0%&r!
+command-config-set-group-impossible: 'Cannot set value to group node: &e%0%&r!'
+command-config-set-list-impossible: 'Cannot set value to list node: &e%0%&r! Use add
+  / remove!'
+command-config-set-success: '&a%0%&r set to &e%1%&r!'
+command-migrate-database-method-invalid: '&cInvalid database method, must be different
+  from current!'
+command-migrate-skipped: No entries stored! Are you sure you selected the right migrate
+  direction?
+command-migrate-success: Statistics successfully migrated! %0% entries stored!
+command-player-not-found: 'Player not found: %0%'
+command-player-not-found-explanation: They probably did not kill or die yet!
+command-topworld-invalid-world: 'World not found: %0%'
+command-purge-success: Statistics successfully cleaned up! %0% entries removed!
+command-reload-success: Configuration reloaded!
+command-set-success: Set %0% of player %1% to %2%!
+command-wipe-global-success: Statistics wiped!
+command-wipe-player-success: Statistics wiped for %0%!
+display-setup-invalid: '&cInvalid display setup - here is how to do it: https://slipcor.net/?go=mc13'
+display-sorted-by: Leaderboard is now sorted by %0%!
+display-successful: PVP Leaderboard created at %0%!
+log-update-disabled: Updates deactivated. Please check spigotmc.org for updates
+log-update-enabled: Checking for updates...
+message-prefix: '[PVP Stats] '
+no-permission-cleanup: No permission to clean up!
+no-permission-config-set: No permission to set config setting!
+no-permission-debug: No permission to debug!
+no-permission-help: No permission to get command help!
+no-permission-migrate: No permission to migrate!
+no-permission-purge: No permission to purge!
+no-permission-reload: No permission to reload!
+no-permission-set: No permission to set!
+no-permission-show: No permission to see stats!
+no-permission-top: No permission to view top players!
+no-permission-topplus: No permission to view timed top players!
+no-permission-topworld: No permission to view timed top players per world!
+no-permission-wipe: No permission to wipe!
+player-elo-added: 'You got %0% ELO points! Your score is now: %1%'
+player-elo-removed: 'You lost %0% ELO points! Your score is now: %1%'
+player-elo-exchange-public-1: '%0% received %2% ELO points, %1% lost %3% ELO points.'
+player-elo-exchange-public-2: '%0% now has %1% ELO points, %2% now has %3% ELO points.'
+player-killstreak-ended: Your killstreak of %0% was broken!
+player-killstreak-ended-global: '%0% has just lost a killstreak of %1%'
+player-no-stats: You do not have stats!
+statistic-format-number: '%0%: %1%'
+statistic-format-value: '&c%0%: &7%1%'
+statistic-headline-top: '&cPVP Stats Top &7%0% &c%1%'
+statistic-headline-flop: '&cPVP Stats Flop &7%0% &c%1%'
+statistic-headline-topworld: '&cPVP Stats Top &7%0% &c%1% in &e%2%'
+statistic-headline-flopworld: '&cPVP Stats Flop &7%0% &c%1% in &e%2%'
+statistic-headline-elo: ELO
+statistic-headline-deaths: Deaths
+statistic-headline-kills: Kills
+statistic-headline-ratio: ''
+statistic-headline-streak: Streaks
+statistic-headline-currentstreak: Active Streaks
+statistic-separator: '&7---------------'
+statistic-value-deaths: Deaths
+statistic-value-elo: Elo
+statistic-value-kills: Kills
+statistic-value-max-streak: Max Streak
+statistic-value-name: Name
+statistic-value-ratio: Ratio
+statistic-value-streak: Streak
+statistic-value-currentstreak: Active Streak
+sign-sorted-by: sorted by
+sign-sorted-column: '&a%0%'
+version: 1.1103

@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNDU0NDgyMjg3OSwKICAicHJvZmlsZUlkIiA6ICIwOTFjNTk0OTFiZjk0YTBkYWI4NDVjNzIxMGQzZWMyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJRdWVqdGkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTQxMGY3M2NkYTY0NzBlNTg3ZGNlOTc4MjdjNDZiOGFhNWFkM2ZhOGJmZmI4ZGM3MDhjMGM5ZTAwYWNiYjRhNyIKICAgIH0KICB9Cn0=",
+    "signature": "RCVU/dBjRElNzAyWeYyh2PYyHH7PsJjaWOonq66GB8nKwTg829nhbvQGYjWphpJklRyE48O0huaXGZZAKdgwHhLWvTtnqYFUwRfsUbQN54RElFz+MV8U0GdZVGyrSZuIVkcgfs1dLJaVeq/yUTgTZ/xZlt+foh8E88dhmANTYKzI6osJepIhqpl7AxW3ZHCyEn/EnFnlTcVHQzSQch1wCflj4oWArRcWAe7FvXwaXh2rclIPxaKUGCAzbiJ3rnvX4IGc4EELejj1pgtp1mue06fHgqz/Zyqfk6K5eBQdpDiT7p7gjIMIGf0r6y5MpY2HNtq1u/SQbe4f3DvJspQDNYLYeIzcsU1CPUIyw5htnsv+cMg/Km8g7ZeCx5zw4vnDO8XD8KLnLzayW+fytpFFr06PE9VYEVXyoBDqwmHdjZQxgNRKvUS5GREna78l7gycYwmVJSDEd+bzTTcxC/EzNEhgzTS2tvk/sFcnvjqeQPqsZNAzV+jg8ypBo45I2EF5OksSItRlQMoZ2sYHHJ1/x1yfSp/Bb/kfvV8ZQM1JUO4Wksl0/aHq7DPsG1li+5bj/fjnKXigH7DOZQUCS6n2rtit5x3fntPGT3YMHuKAM8ZGfTlwv8f2Csy45osD4a1Ltg69HbHnx7SAntVWJlLSKOjfWtJgejVH3YhQ89bek38=",
+    "skinName": "Quejti",
+    "location": {
+      "world": "world",
+      "x": 100.5,
+      "y": 22.0,
+      "z": 133.5,
+      "yaw": 0.90010923,
+      "pitch": 0.60000426
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "&a&lLOSOWY-RTP"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "rtp world survival",
+        "delay": 0
+      }
+    ],
+    "npcEquip": {},
+    "npcFunctions": {
+      "holo": true,
+      "look": true
+    },
+    "customizationMap": {}
+  },
+  {
+    "id": 2,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNTc1MTcwMzU3MiwKICAicHJvZmlsZUlkIiA6ICIxNzZjNDdiODY0Mzk0MDcxYWRhNTFmNTM0ZTYxNWU3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb21pbjQwMjMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjJmYjE4YmY0NmMzYTAwM2M2ZmQ4ZDRlNzE0Y2JhMjQ2NDY3MjUyMDQyZmIxYzBiM2M3ZTEyZWViOTBiMzRiMCIKICAgIH0KICB9Cn0=",
+    "signature": "JdCUo7jhlmoQFzkeBOFtsbaG6hmk6yDCt4N7UJkBEhBP7G13XbacoC7XO/OLJ27+OTLz+r7cOOnmdzY6EZeYqlviKw8n7+tJdVuXHMmc+pm8NlKHw8F7tBiL+ePcJpV/OPIR4kpTWy6aczU1y2n4HbJ8QKySgG/q5K/tR4baLTJEet9DFJKSH1EHBz9mhOUtZLFSsA/jhxQGNHcI0kOZsPgA+wSbszFN3Gx7petJ+HEkdAQFkWSCf+3B2QRbccW+Z+XNjNvfpCbDgDdoP23J1OW8DMCDPtLFClFoctg5gMlmxlqnRHiGa2xMh82yY/WKJGaEqDY4UGDyb0bPPsuoSLBPrOcQtXJOoyHmQZ2xjyiQ1QQcMkcNYi9XK4bg3d5IMxSJGsNqsBGktomGFybe5ZUFaUDpfqU7Wy2uSNS2yQc31gWi9FFMROrevfGWssKfwIAcXOiXEVPGWq6K5e/rHhd9UXLB+C9v20p/uoM/3p4Owdiqa545HE7XhE8YGgY00sslKMdCutcpgjjIHizyPowHY10bG1Ltf5wKDLCEfwXCobE6pzmtWeEHHd0lHR60i3tAzcaESZzD6lWM7DcPKK4TkVNR/CcEF0v0u5zQAj4rB7x/8Pu3pupSx2AQlI14oDLabGzAfCasWXOKxtHYxBC8gQkQEIxoenAaE0M+deU=",
+    "skinName": "Domin4023",
+    "location": {
+      "world": "world",
+      "x": 117.5,
+      "y": 38.0,
+      "z": 71.5,
+      "yaw": -92.0614,
+      "pitch": -1.8923862
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "TOPKA CZASU"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {
+      "holo": true,
+      "look": true
+    },
+    "customizationMap": {}
+  },
+  {
+    "id": 3,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNTc1MTcwMzU3MiwKICAicHJvZmlsZUlkIiA6ICIxNzZjNDdiODY0Mzk0MDcxYWRhNTFmNTM0ZTYxNWU3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb21pbjQwMjMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjJmYjE4YmY0NmMzYTAwM2M2ZmQ4ZDRlNzE0Y2JhMjQ2NDY3MjUyMDQyZmIxYzBiM2M3ZTEyZWViOTBiMzRiMCIKICAgIH0KICB9Cn0=",
+    "signature": "JdCUo7jhlmoQFzkeBOFtsbaG6hmk6yDCt4N7UJkBEhBP7G13XbacoC7XO/OLJ27+OTLz+r7cOOnmdzY6EZeYqlviKw8n7+tJdVuXHMmc+pm8NlKHw8F7tBiL+ePcJpV/OPIR4kpTWy6aczU1y2n4HbJ8QKySgG/q5K/tR4baLTJEet9DFJKSH1EHBz9mhOUtZLFSsA/jhxQGNHcI0kOZsPgA+wSbszFN3Gx7petJ+HEkdAQFkWSCf+3B2QRbccW+Z+XNjNvfpCbDgDdoP23J1OW8DMCDPtLFClFoctg5gMlmxlqnRHiGa2xMh82yY/WKJGaEqDY4UGDyb0bPPsuoSLBPrOcQtXJOoyHmQZ2xjyiQ1QQcMkcNYi9XK4bg3d5IMxSJGsNqsBGktomGFybe5ZUFaUDpfqU7Wy2uSNS2yQc31gWi9FFMROrevfGWssKfwIAcXOiXEVPGWq6K5e/rHhd9UXLB+C9v20p/uoM/3p4Owdiqa545HE7XhE8YGgY00sslKMdCutcpgjjIHizyPowHY10bG1Ltf5wKDLCEfwXCobE6pzmtWeEHHd0lHR60i3tAzcaESZzD6lWM7DcPKK4TkVNR/CcEF0v0u5zQAj4rB7x/8Pu3pupSx2AQlI14oDLabGzAfCasWXOKxtHYxBC8gQkQEIxoenAaE0M+deU=",
+    "skinName": "Domin4023",
+    "location": {
+      "world": "world",
+      "x": 100.5,
+      "y": 22.0,
+      "z": 146.5,
+      "yaw": -135.0965,
+      "pitch": 4.301928
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "&6&lRYNEK"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "ah",
+        "delay": 0
+      }
+    ],
+    "npcEquip": {},
+    "npcFunctions": {
+      "holo": true,
+      "look": true
+    },
+    "customizationMap": {}
+  }
+]

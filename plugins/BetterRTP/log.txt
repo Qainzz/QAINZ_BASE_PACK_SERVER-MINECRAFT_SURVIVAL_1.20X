@@ -1,0 +1,53 @@
+2024-11-22 10:37:58 [INFO]: Loading Overrides...
+2024-11-22 10:37:58 [INFO]: Loading World Types...
+2024-11-22 10:37:58 [INFO]: - World Type for 'world' set to 'NORMAL'
+2024-11-22 10:37:58 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2024-11-22 10:37:58 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2024-11-22 10:37:58 [INFO]: Loading Defaults...
+2024-11-22 10:37:58 [INFO]: Loading Custom Worlds...
+2024-11-22 10:37:58 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2024-11-22 10:37:58 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2024-11-22 10:37:58 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
+2024-11-22 10:37:59 [INFO]: Database QUEUE:Queue configured and loaded!
+2024-11-22 10:37:59 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2024-11-22 10:37:59 [INFO]: Database COOLDOWN:world configured and loaded!
+2024-11-22 10:37:59 [INFO]: Database PLAYERS:Players configured and loaded!
+2024-11-22 10:37:59 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2024-11-22 10:37:59 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2024-11-22 10:37:59 [INFO]: Database COOLDOWN:survival configured and loaded!
+2024-11-22 10:38:00 [INFO]: Attempting to queue up some more safe locations...
+2024-11-22 10:38:01 [INFO]: Queueing paused, max queue limit reached!
+2024-11-22 10:42:33 [INFO]: Quejti executed: /rtp world survival
+2024-11-22 10:42:33 [WARNING]: Seems like the world `survival` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- survival: NETHER`
+2024-11-22 10:42:34 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-819.5,y=60.0,z=-860.5,pitch=15.450032,yaw=-175.79941}
+2024-11-22 10:45:34 [INFO]: Quejti executed: /rtp world survival
+2024-11-22 10:45:34 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-653.0,y=69.0,z=270.0,pitch=0.0,yaw=0.0}
+2024-11-22 10:45:34 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-109.0,y=69.0,z=855.0,pitch=0.0,yaw=0.0}
+2024-11-22 10:45:35 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-109.0,y=69.0,z=855.0,pitch=0.0,yaw=0.0}
+2024-11-22 10:45:35 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=707.5,y=63.0,z=305.5,pitch=11.4000025,yaw=141.45056}
+2024-11-22 10:45:35 [INFO]: Attempting to queue up some more safe locations...
+2024-11-22 10:45:35 [INFO]: Attempting to queue up some more safe locations...
+2024-11-22 10:45:39 [INFO]: Queue position generated: id= rtp_survival, database_ID= 101, location= x: 410, y: 78, z: -267, world: survival
+2024-11-22 10:45:46 [INFO]: Queue position generated: id= rtp_survival, database_ID= 102, location= x: 737, y: 63, z: 88, world: survival
+2024-11-22 10:46:04 [INFO]: Queue position generated: id= rtp_survival, database_ID= 103, location= x: 817, y: 73, z: -807, world: survival
+2024-11-22 10:46:09 [INFO]: Queue position generated: id= rtp_survival, database_ID= 104, location= x: 816, y: 72, z: -792, world: survival
+2024-11-22 10:46:10 [INFO]: Queue position generated: id= rtp_survival, database_ID= 105, location= x: -851, y: 71, z: -467, world: survival
+2024-11-22 10:46:16 [INFO]: Queue position generated: id= rtp_survival, database_ID= 106, location= x: 308, y: 82, z: -605, world: survival
+2024-11-22 10:46:18 [INFO]: Queue position generated: id= rtp_survival, database_ID= 107, location= x: 514, y: 67, z: 493, world: survival
+2024-11-22 10:46:23 [INFO]: Queue position generated: id= rtp_survival, database_ID= 108, location= x: 146, y: 64, z: -632, world: survival
+2024-11-22 10:46:23 [INFO]: Queue position generated: id= rtp_survival, database_ID= 109, location= x: 67, y: 73, z: -626, world: survival
+2024-11-22 10:46:26 [INFO]: Queue position generated: id= rtp_survival, database_ID= 110, location= x: 358, y: 64, z: 300, world: survival
+2024-11-22 10:46:26 [INFO]: Queue position generated: id= rtp_survival, database_ID= 111, location= x: 557, y: 68, z: 113, world: survival
+2024-11-22 10:46:31 [INFO]: Queue position generated: id= rtp_survival, database_ID= 112, location= x: -931, y: 64, z: -708, world: survival
+2024-11-22 10:46:35 [INFO]: Queue position generated: id= rtp_survival, database_ID= 113, location= x: -906, y: 63, z: -810, world: survival
+2024-11-22 10:46:39 [INFO]: Queue position generated: id= rtp_survival, database_ID= 114, location= x: 981, y: 74, z: -876, world: survival
+2024-11-22 10:46:40 [INFO]: Queue position generated: id= rtp_survival, database_ID= 115, location= x: 276, y: 64, z: -440, world: survival
+2024-11-22 10:46:41 [INFO]: Queue position generated: id= rtp_survival, database_ID= 116, location= x: 330, y: 63, z: -720, world: survival
+2024-11-22 10:46:43 [INFO]: Queue position generated: id= rtp_survival, database_ID= 117, location= x: 804, y: 73, z: -433, world: survival
+2024-11-22 10:46:43 [INFO]: Queue position generated: id= rtp_survival, database_ID= 118, location= x: 448, y: 63, z: 627, world: survival
+2024-11-22 10:46:49 [INFO]: Queue position generated: id= rtp_survival, database_ID= 119, location= x: 864, y: 85, z: -743, world: survival
+2024-11-22 10:46:53 [INFO]: Queue position generated: id= rtp_survival, database_ID= 120, location= x: 478, y: 80, z: -293, world: survival
+2024-11-22 10:46:59 [INFO]: Queue position generated: id= rtp_survival, database_ID= 121, location= x: 356, y: 74, z: -525, world: survival
+2024-11-22 10:47:00 [INFO]: Queue position generated: id= rtp_survival, database_ID= 122, location= x: 839, y: 69, z: 77, world: survival
+2024-11-22 10:47:08 [INFO]: Max attempts to create a Queue reached for rtp_survival (amount: 22)
+2024-11-22 10:47:09 [INFO]: Max attempts to create a Queue reached for rtp_survival (amount: 22)

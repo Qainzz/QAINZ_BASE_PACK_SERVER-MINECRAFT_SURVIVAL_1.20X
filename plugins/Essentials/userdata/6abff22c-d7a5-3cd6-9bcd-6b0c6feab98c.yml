@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719747746617
+  login: 1719746744419
+money: '0'
+last-account-name: bedfrog1
+lastlocation:
+  world: 02030997-112c-466c-b42f-db9d2d443237
+  world-name: world
+  x: 106.0
+  y: 22.0
+  z: 140.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 02030997-112c-466c-b42f-db9d2d443237
+  world-name: world
+  x: 133.46889332811162
+  y: 22.0
+  z: 124.34013241377711
+  yaw: 42.14752960205078
+  pitch: -18.150440216064453

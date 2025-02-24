@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.30.102.155
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1720015382398
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720017135296
+  login: 1720016821956
+money: '1642.88'
+last-account-name: Domin4023
+lastlocation:
+  world: 069e39cd-713a-47ea-a1a0-980f100b210b
+  world-name: survival
+  x: -66.96975878833554
+  y: 102.29686349556148
+  z: -953.8785699720111
+  yaw: -178.05007934570312
+  pitch: 25.076032638549805
+logoutlocation:
+  world: 02030997-112c-466c-b42f-db9d2d443237
+  world-name: world
+  x: 116.38337052549078
+  y: 22.0
+  z: 145.91930116717586
+  yaw: -40.53277587890625
+  pitch: 14.281547546386719

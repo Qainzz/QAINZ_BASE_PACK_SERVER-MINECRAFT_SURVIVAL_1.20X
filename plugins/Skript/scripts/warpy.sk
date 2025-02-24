@@ -1,0 +1,39 @@
+# command /warp [<text>]:
+	# trigger:
+		# close player's inventory
+		# wait 3 tick
+		# open chest inventory with 1 rows named "&8Warp:" to player
+		# set slot 3 of player's current inventory to PRISMARINE named "&a&lWymieniarka" with lore "&r" and " &7W tym miejscu możesz się wymieniać z innymi graczami" and "&r" and " &aKliknij, aby przeteleportować się!"
+		# set slot 5 of player's current inventory to DARK PRISMARINE named "&a&lKopalnia" with lore "&r" and " &7W tym miejscu możesz kopać w bezpieczeństwie i nikt nie będzie w stanie cię uderzyć" and "&r" and " &aKliknij, aby przeteleportować się!"
+		# set slot 4 of player's current inventory to PRISMARINE STAIRS named "&a&lParkour" with lore "&r" and " &7W tym miejscu możesz sobie przechodzić parkour na spokojnie" and "&r" and " &aKliknij, aby przeteleportować się!"
+        
+# on inventory click:
+	# if name of event-inventory is "&8Warp:":
+		# if index of event-slot = 3:
+			# cancel event
+			# execute player command "warps wymieniarka"
+
+# on inventory click:
+	# if name of event-inventory is "&8Warp:":
+		# if index of event-slot = 5:
+			# cancel event
+			# execute player command "warps kopalnia"
+
+# on inventory click:
+	# if name of event-inventory is "&8Warp:":
+		# if index of event-slot = 4:
+			# cancel event
+			# execute player command "warps parkur"
+
+command /eventy [<text>]:
+	trigger:
+		close player's inventory
+		wait 3 tick
+		open chest inventory with 1 rows named "&8Eventy:" to player
+		set slot 4 of player's current inventory to DARK PRISMARINE named "&a&lKrzesełka" with lore "&r" and " &7W tym miejscu możesz brać udział w evencie (&aKrzesełka&7)" and "&r" and " &aKliknij, aby przeteleportować się!"
+
+on inventory click:
+	if name of event-inventory is "&8Eventy:":
+		if index of event-slot = 4:
+			cancel event
+			execute player command "warps event-krzeselka"

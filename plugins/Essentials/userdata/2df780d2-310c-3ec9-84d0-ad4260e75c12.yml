@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.113.203.75
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719927636342
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720116015597
+  login: 1720115989993
+money: '0'
+last-account-name: malina
+lastlocation:
+  world: 069e39cd-713a-47ea-a1a0-980f100b210b
+  world-name: survival
+  x: 214.8233967394716
+  y: 64.0
+  z: -731.5831280903334
+  yaw: -73.94965362548828
+  pitch: 13.950007438659668
+logoutlocation:
+  world: 02030997-112c-466c-b42f-db9d2d443237
+  world-name: world
+  x: 132.77080503080828
+  y: 22.0
+  z: 144.97478842296331
+  yaw: -44.39959716796875
+  pitch: 19.949993133544922

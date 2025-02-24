@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718041102256
+  login: 1718040805382
+money: '0'
+last-account-name: ORO
+lastlocation:
+  world: c44cd375-4cb2-42b8-8176-ce8001291cfb
+  world-name: world
+  x: -11.061133413445953
+  y: 67.0
+  z: 67.00927712870558
+  yaw: -7.200077533721924
+  pitch: 15.29998779296875
+logoutlocation:
+  world: c44cd375-4cb2-42b8-8176-ce8001291cfb
+  world-name: world
+  x: -48.69999998807907
+  y: 63.0
+  z: 206.91939018874044
+  yaw: 85.63980102539062
+  pitch: 32.850101470947266

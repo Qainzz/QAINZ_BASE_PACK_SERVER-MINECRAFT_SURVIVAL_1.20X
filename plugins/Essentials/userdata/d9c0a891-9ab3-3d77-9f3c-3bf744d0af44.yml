@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.0.208
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719707139485
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719712227517
+  login: 1719712136973
+money: '190.0'
+last-account-name: Quejcior
+lastlocation:
+  world: 02030997-112c-466c-b42f-db9d2d443237
+  world-name: world
+  x: 187.32420915848917
+  y: -29.390022266283758
+  z: 133.3141237621095
+  yaw: 22.20281982421875
+  pitch: -67.35001373291016
+logoutlocation:
+  world: 02030997-112c-466c-b42f-db9d2d443237
+  world-name: world
+  x: 137.60291955305127
+  y: 22.0
+  z: 137.12574982971086
+  yaw: 30.30035400390625
+  pitch: 5.849987030029297

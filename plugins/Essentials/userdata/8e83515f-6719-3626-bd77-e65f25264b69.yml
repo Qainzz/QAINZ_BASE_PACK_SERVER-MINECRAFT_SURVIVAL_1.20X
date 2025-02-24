@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.173.148.21
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719848965823
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720017805602
+  login: 1720017800769
+money: '150.0'
+last-account-name: staryexe123
+lastlocation:
+  world: 069e39cd-713a-47ea-a1a0-980f100b210b
+  world-name: survival
+  x: -1753.4827083287264
+  y: 53.0
+  z: -3257.3843363856085
+  yaw: -84.60118103027344
+  pitch: -1.0500355958938599
+logoutlocation:
+  world: 069e39cd-713a-47ea-a1a0-980f100b210b
+  world-name: survival
+  x: -569.9042327208768
+  y: 67.0
+  z: 245.4379944075878
+  yaw: 68.4794692993164
+  pitch: 26.249958038330078
+homes:
+  home:
+    world: c86c4962-c763-45d6-9fe7-ba3034a0f0d9
+    world-name: world_nether
+    x: 34.68013025344837
+    y: 66.0
+    z: 308.11339845300205
+    yaw: 81.14559936523438
+    pitch: 51.30004119873047
+  expiarkka:
+    world: 069e39cd-713a-47ea-a1a0-980f100b210b
+    world-name: survival
+    x: -1750.6566817579585
+    y: 31.0
+    z: -3262.4609786613646
+    yaw: 7.648773193359375
+    pitch: 25.79974365234375

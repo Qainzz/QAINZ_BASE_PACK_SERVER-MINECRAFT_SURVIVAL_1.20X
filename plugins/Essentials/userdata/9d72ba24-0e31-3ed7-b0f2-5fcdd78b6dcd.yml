@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718715681335
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718721031177
+  login: 1718719194305
+money: '0'
+last-account-name: Dzikulu
+lastlocation:
+  world: c44cd375-4cb2-42b8-8176-ce8001291cfb
+  world-name: world
+  x: -75.43210360160082
+  y: 69.7615781493762
+  z: 294.8042196750276
+  yaw: -171.90057373046875
+  pitch: 21.67064666748047
+logoutlocation:
+  world: c44cd375-4cb2-42b8-8176-ce8001291cfb
+  world-name: world
+  x: -27.55622916627303
+  y: 64.0
+  z: 253.09425914356456
+  yaw: 7.89404296875
+  pitch: 13.087713241577148
